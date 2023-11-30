@@ -2,4 +2,4 @@
 
 Curso de HTML e CSS do CursoemVideo!
 
-(Atualizado sempre que um exercício ou desafio for concluído)
+Módulo 1 ao 5 (Ainda no 3) #Atualizar conforme a conclusão dos módulos
